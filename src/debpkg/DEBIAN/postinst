@@ -1,0 +1,11 @@
+#!/bin/sh
+set -e
+chmod 544 /usr/bin/vsa
+chmod 544 /usr/bin/vsa_btns
+chmod 644 /etc/vsa/known_keys.cfg
+chmod 644 /etc/vsa/button_actions.cfg
+chmod 755 /etc/init.d/vsa_btns
+update-rc.d vsa_btns defaults
+chmod 744 /usr/share/applications/vsa.desktop
+chmod 644 /usr/share/icons/hicolor/48x48/apps/vsa.png
+exit 0

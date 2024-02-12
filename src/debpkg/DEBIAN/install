@@ -1,0 +1,11 @@
+/usr/bin/vsa
+/usr/bin/vsa_btns
+/etc/vsa/known_keys.cfg
+/etc/vsa/button_actions.cfg
+/etc/init.d/vsa_btns
+/usr/share/applications/vsa.desktop
+/usr/share/icons/hicolor/48x48/apps/vsa.png
+/usr/share/icons/hicolor/48x48/apps/vsa_0.png
+/usr/share/icons/hicolor/48x48/apps/vsa_1.png
+/usr/share/icons/hicolor/48x48/apps/vsa_2.png
+/usr/share/icons/hicolor/48x48/apps/vsa_3.png

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=VSA
+Exec=/usr/bin/vsa
+Icon=/usr/share/icons/hicolor/48x48/apps/vsa.png
+Terminal=false
+Type=Application
+Categories=System

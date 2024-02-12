@@ -1,0 +1,29 @@
+#white
+{
+  color: #fff;
+  text-shadow: 0px 0px 1px #333;
+}
+
+#black
+{
+  color: #000;
+  text-shadow: 0px 0px 1px #333;
+}
+
+#red
+{
+  color: #f00;
+  text-shadow: 0px 0px 1px #333;
+}
+
+#green
+{
+  color: #0f0;
+  text-shadow: 0px 0px 1px #333;
+}
+
+#blue
+{
+  color: #00f;
+  text-shadow: 0px 0px 1px #333;
+}

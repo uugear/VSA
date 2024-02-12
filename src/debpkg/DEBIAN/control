@@ -1,0 +1,8 @@
+Package: vsa
+Version: 1.2
+Section: base
+Architecture: arm64
+Maintainer: support@uugear.com
+Installed-Size: 40
+Depends: xdotool
+Description: Vivid Unit screen assistant tool.
