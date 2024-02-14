@@ -5,7 +5,7 @@ Vivid Unit Screen Asistant is a GUI utility that helps you to adjust the orienta
 
 <img src="https://www.vividunit.com/images/a/aa/vsa-2.jpg" width="500"></img>
 
-# How to Build
+## How to Build
 ```
 cd src
 make
